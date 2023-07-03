@@ -18,6 +18,11 @@ body {
   font-weight: 400;
 }
 
+.port {
+  max-width: 100%;
+  display: block;
+}
+
 .products {
   width: 65%;
   margin: auto;
